@@ -10,7 +10,6 @@ $(document).ready(function () {
 	if (!!$.prototype.scrollUp) {
 		$.scrollUp();
 	}
-
 	/*Responsive Navigation*/
 	$("#nav-mobile").html($("#nav-main").html());
 	$("#nav-trigger span").on("click",function() {
