@@ -5,6 +5,7 @@ $(document).ready(function () {
 		$('.video').simpleLightboxVideo();
 	}
 
+	
 	/*ScrollUp*/
 	if (!!$.prototype.scrollUp) {
 		$.scrollUp();
