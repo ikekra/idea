@@ -6,7 +6,7 @@ $(document).ready(function () {
 	}
 
 	
-	/*ScrollUp*/
+	
 	if (!!$.prototype.scrollUp) {
 		$.scrollUp();
 	}
